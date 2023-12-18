@@ -268,4 +268,7 @@ int main() {
         printf("\n Opção inválida, tente novamente.\n\n");
     }
   } while (opcao != 4);
+  return 0;
 }
+
+
