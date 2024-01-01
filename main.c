@@ -36,10 +36,10 @@ int main() {
     {"Charmander", "Fogo"},
     {"Squirtle", "Água"},        
     {"Pikachu", "Elétrico"},
-    {"Jigglypuff", "Fada"}, 
-    {"Mewtwo", "Psíquico"},
     {"Caterpie", "Inseto"}, 
-    {"Snorlax", "Normal"}
+    {"Snorlax", "Normal"},
+    {"Jigglypuff", "Fada"}, 
+    {"Mewtwo", "Psíquico"}
   };
 
   // Variáveis para armazenar os tipos dos Pokémons
